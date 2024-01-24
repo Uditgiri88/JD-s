@@ -1,0 +1,128 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SPREADSHEET LINK-https://docs.google.com/spreadsheets/d/1F7U-D6HtZZN4_aCXXyCJookWp4Phi21WQM2gzFHdVO8/edit?usp=sharing
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 1-
+-Understanding of CI/CD pipelines
+-If you have some experience with Kubernetes already, that's great! Otherwise, we'll train you.
+-Experience with Linux servers
+-Experience with docker and container platforms
+-Understanding of infrastructure as Code and Configuration management.
+-Experience with at least one scripting language (i.e. python, bash, rust, node.js, go).
+-About you: you’re a team-player, analytical, customer-centric, self-motivated and driven by
+-quality.
+-A strong willingness to learn more and improve.
+-Fluent written and verbal English communication skills
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 2-
+-Defining and setting development, test, release, update, and support processes
+-CI/CD pipelines with GitHub or Jenkins
+-Good understanding of Python, and Java and Linux
+-Databases MySQL, Mongo
+-CDNs and asset management
+-Email Servers (SES)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 3-
+-Design, implement, and maintain the infrastructure required for development, testing, and production environments.
+-Utilize cloud platforms (e.g., AWS, Azure, GCP) to create scalable and cost-effective solutions.
+-Set up and manage virtualization and containerization technologies to enable efficient deployment and scaling of applications.
+-Implement and improve CI/CD pipelines to automate the build, test, and deployment processes.
+-Work with development teams to ensure code integration, testing, and deployment are seamless and efficient.
+-Monitor and troubleshoot CI/CD pipelines to maintain smooth and reliable operations.
+-Identify manual tasks and processes that can be automated to improve efficiency and reduce human errors.
+-Set up monitoring systems to track application performance, infrastructure health, and overall system reliability.
+-Collaborate with security teams to implement secure development practices and ensure compliance with industry standards and regulations.
+-Communicate effectively with team members and stakeholders regarding infrastructure changes, deployments, and system updates.
+-Identify performance bottlenecks and implement optimizations to improve application and system performance.
+-Staying up-to-date with the rapidly evolving DevOps landscape, including new tools, best practices, and trends.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 4-
+-Working experience in DevOps, Public Clouds, and Automation is must.  Should have worked as a team player or independent contributor in an enterprise scale environment. 
+-Must be able to understand the requirements and ability to work on requirement independently with minimum support.
+-Should possess knowledge to grasp the existing setup/tools, find scope for improvement, create & plan and execute them.
+-Exposure in sprint style model of projects execution and should be an active team player, ready to work in shift if needed.
+-Creating Jenkins pipeline for build & release for both AWS and AZURE platforms.
+-Should be good at automation skills using Shell scripting, PowerShell, Ruby, HCL, Python, Packer, JSON, YAML, ARM Templates, DSC, AWS-CLI, AZ-CLI, etc.
+-Extensive working experience is desired on Linux & its flavours platforms. ( Centos or  RHEL is must)
+-In-depth knowledge on all type of Package Management for Linux OS. (Yum/ dnf/ apt / dpkg, etc.).
+-Should be well versed in working with cloud core services, like - VM, images compute, Storage, network, Resource group, Tagging,  IAM, Serve less , Lambda Functions, Cloud Formation,  etc.
+-Working experience is must with DevOp lifecycle mgmt. - Package / Build / Release /configuration mgmt. for cloud platform. (AWS / Azure preferred).
+-Must have hand-on with tools widely used in DevOps. Following are preferred - GIT, Jenkins, Docker, Chef, Terraform, Ansible, AZ Repo, AZ-Pipeline/Release.
+-Should be good with Middleware Technologies such as Jboss, Tomcat, Apache, and Weblogic.
+-Should be familiar with working with API & basic knowledge of db.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 5-
+ -Drive discussions around Devops, technical concepts and specifications based on the analysis of customer processes and requirements, identify potential interfaces, re-usable components.
+ -Strong knowledge of 3-tier application deployments to cloud environments.
+ -Hands-on experience in building, designing and maintaining cloud-based applications with AWS, Azure, etc.
+ -Hands-on experience on industry standard build orchestration tools such as Jenkins, Gitlab and Azure DevOps pipelines, and source control tools 
+ -Building and setting up new development tools, infrastructure, and Networking. Maintaining and deploying the cloud applications. 
+ -Ability to develop and configure infrastructure and configuration as code (Ansible and Terraform).
+ -Experience in administration of Production, Development and Test environments hosted on Windows, Linux and Unix servers.
+ -Knowledge of load balancing, CDN options provided by multiple cloud vendors (E.g. Load balancer and Application gateway in Azure)
+ -Knowledge on installing and configuring MYSQL, MSSQL, and PostgreSQL databases.
+ -Ensuring that systems are safe and secure against cybersecurity threats. Identifying technical problems and install software updates and ‘fixes’.
+ -Understanding the needs of stakeholders and conveying this to developers. Working on ways to automate and improve development and release processes.
+ -Installing and maintaining a logging cluster using Logstash, ElasticSearch and Kibana as a centralized solution to parse logs from application and docker containers. 
+ -Knowledge on monitoring tools such as New Relic, ELK stack, Grafana etc.
+ -Working with software developers and software engineers to ensure that development follows established processes and works as intended.
+ -Knowledge-Management competence building practice exchange. Ability to estimate complex solutions, assess complex customer requirements and advise customers on the feasibility, selection, development, effort, and implementation of specific IT solutions.
+ -Strong knowledge of Kubernetes as container orchestration tool. 
+ -Excellent organizational and time management skills, and the ability to work on multiple projects at the same time.
+ -Develop strategy and tools to reduce occurrences of errors and improve customer experience.
+ -System troubleshooting and maintenance, administering development tools and systems (JIRA, Confluence, CICD tools etc.,), Deploy updates and fixes.
+ Perform root cause analysis for production errors. Investigate and resolve technical issues.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ JD 6-
+- 5+ years of designing or architecting of new and existing infrastructure experience
+- 5+ years of deploying and operating in a Windows/Linux environment experience
+- 5+ years AWS experience (EC2, ECS, Fargate, ElasticCache etc)
+- 4+ years writing and debugging Infrastructure as Code (CloudFormation, TerraForm, Ansible, Chef, Puppet,CodeSuite, jenkins )
+- 3+ years with SQL and NoSQL products such as Redis, elastic cache and DynamoDB experience
+- 3+ years with monitoring experience
+- Knowledge of engineering practices
+- Experience working with high-availability, distributed systems and services
+- Experience leading the design, build and deployment of complex and performant (reliable and scalable) software solutions in production
+- Experience with python/scripting languages.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 7-
+-Computer Science degree or equivalent and more than 7 years of experience working with and supporting cloud and DevOps environment with related technologies
+-Expert knowledge of Amazon Web Services (AWS) and a passion for technology
+-Experience knowledge of Terraform, IaC (infrastructure as code) tooling, Helm and Kubernetes for deployments and automation
+-Experience with scripting or programming language (bash/python)
+-Experience with configuration management, setting up CI/CD pipelines, Gitlab knowledge is a plus
+-Familiar with micro-services architecture and understanding of cloud application on AWS
+-Developer background or experience is a plus
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 8-
+-Hands-on good experience in DevOps/MLOPs
+-Hands-on experience working on AWS and Google Cloud.
+-Exp in microservices using Docker, Kubernetes (EKS), Lambda, EC2 ingress, and api gateways.
+-Most have worked with Container and automation tools such as Docker, terraform and Ansible Jenkins
+-In-depth knowledge of Networks topology and cloud Security.
+-Well versed with at-least two scripting languages - Shell and one more (Python, Ruby). And CloudFormation / Terraform.
+-Sound understanding of OS (Linux, CentOs) and OS hardening.
+-Capable of leading a team of ops and ability of prepare and execute a vision.
+-Should be able to work Independently and execute tasks with precision.
+-Code, Build, and Release management (CICD) using GIT / Bitbucket and Jenkins.
+-Optimising and monitoring server performance and infrastructure cost optimisations.
+-Operation and architecture of multi-tier distributed systems Involving load balancers, firewalls, elastic compute, RDS and KAFKA.
+-Having the working knowledge of Promatheus and Grafana / EFK
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 9-
+-Knowledge of DevOps
+-Jenkins
+-ArgoCD
+-CI/CD
+-Public cloud(AWS / Azure)
+-IaC(terraform)
+-EKF (ElasticSearch, Kibana)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 10-
+-Linux Systems Engineering, DevOps, IT and/or software engineering work experience
+-Ability to use a wide variety of open source technologies and cloud services ( Amazon Web Services(mandatory), Azure, GCP, and Docker )
+-Good understanding of Shell scripting or python scripting.
+-Knowledge of Server Monitoring, Installations, DevOps Build, Release and Continuous Integration tools and frameworks such as GIT, MVN, Jenkins, Ansible etc.
+-Familiarity with Nodejs and Java build & deployments.
+-Knowledge with Docker is a must and knowledge of Kubernetes and Terraform would be advantageous.
+-Quick learning abilities to implement new technologies and troubleshoot issues.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
