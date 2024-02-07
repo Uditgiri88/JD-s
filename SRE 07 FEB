@@ -1,0 +1,320 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SPREADSHEET :https://docs.google.com/spreadsheets/d/1uHQWHnrxIyPhIDS6rkcajTXzot-mrQ4z1rKxOwGDTxg/edit?usp=sharing
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+JD 1-
+-It is more of DevOps/AWS resource with Java/ KOTLIN /Python programming skills
+-JD is more generic, below is some more specific skills which we need in the role: 
+-Knowledge on building and Operating on Cloud ( AWS must) Programming skills - Java, KOTLIN , Python Infrastructure as Code Containerization (Docker must)
+-Experience and understanding of CI/CD Understanding and experience in Observability space Tools - Splunk, Datadog, AWS Cloud Watch, AWS Cloud trail ETC 
+-Shell scripting/ Python K8s Understanding of SRE principles Go programming nice to have Security / Perf Test tooling experience and automation
+
+JD 2-
+-A Bachelors or Masters degree in Computer Science, Information Technology, or a related field.
+-Minimum of 10 years or more experience in a Site Reliability Engineering, DevOps, or similar role.
+-Advanced knowledge of Linux systems administration and scripting.
+-Proficiency in containerization technologies (Docker) and orchestration systems (Kubernetes).
+-Experience with CI/CD tools (Jenkins Pipeline), configuration management (Ansible), and infrastructure as code (Terraform).
+-Strong coding skills in Python or similar languages for automation and tooling.
+-Expertise in implementing and managing observability tools (Grafana, Newrelic, etc.) for monitoring and alerting.
+-Familiarity with cloud service providers (AWS, GCP) and their managed services.
+-Excellent problem-solving, troubleshooting, and communication skills.
+-A passion for automation and an eagerness to learn new technologies.
+
+JD 3-
+-Bachelors degree in Computer Science, Engineering, or a related technical field. Masters degree is a plus.
+-Proven experience (5+ years) working as an SRE with a specific focus on Microsoft Azure Cloud services.
+-Deep understanding of Azure services, including Azure Kubernetes Service (AKS), Azure App Service, Azure Functions, Azure Monitor, and Azure Resource Manager.
+-Proficiency in scripting and programming languages (e.g., PowerShell, Python) for automation, infrastructure management, and tool development.
+-Hands-on experience with containerization and orchestration technologies, such as Docker and Kubernetes, in an Azure context.
+-Strong incident management skills, with a data-driven and analytical approach to diagnosing complex issues.
+-Familiarity with Infrastructure as Code (IaC) tools (e.g., Terraform, ARM templates) and configuration management tools (e.g., Ansible, Chef, Puppet).
+-Excellent problem-solving skills, attention to detail, and a proactive attitude towards addressing operational challenges.
+-Effective communication and collaboration skills, with the ability to work across teams and influence technical decisions.
+-Experience with CI/CD pipelines and version control systems (e.g., Git).
+-Relevant Azure certifications (e.g., Microsoft Certified: Azure Solutions Architect Expert, Microsoft Certified: Azure DevOps Engineer Expert) are highly advantageous.
+
+JD 4-
+-Bachelor’s degree (or equivalent) in computer science or related discipline
+-Ability to program (structured and OOP) using one or more high-level languages, such as Python, Java, C/C++, Ruby, and JavaScript.
+
+JD 5-
+-Bachelor's degree or equivalent experience in a software engineering discipline
+-Expertise in at least one technology stack designing, coding, testing, and delivering software - Java Stack, Kubernetes, Microservices, Kafka, Azure
+-Proficiency in one or more technology domains, may be a cross-domain expert able to solve complex and mission critical problems within a business or across the firm
+-Working knowledge of infrastructure components (e.g., routers, load balancers, cloud products, container systems, compute, storage, and networks)
+-Excellent debugging and trouble shooting skills
+-Software Engineering background with a focus on Systems Engineering.
+-Some of the SRE tools we need are ELK, Akamai CDN/mPulse, Prometheus, Grafana.
+-Scripting - Ansible, Puppet, Chef
+-Strong Linux (RHEL) administration skills
+-Apache HTTPD / Tomcat
+
+JD 6-
+-Linux system architecture, deployment, configuration, automation, and management
+-Ensuring availability of the group platform and services.
+-Work with engineering teams to design, build and support platform implementations using AWS and other cloud technologies.
+-Manage CI/CD pipelines across 20+ repos in various technology stacks.
+-Provide support to the business on escalations adhering to SLAs.
+-Build tools and solutions to automate recurring tasks.
+-Write formal documentation on configuration standards, troubleshooting steps, and infrastructure design.
+-Design and implement large and complex technology projects.
+-Participate in an on-call rotation.
+
+JD 7-
+-ITIL based release management processes.
+-Experience with Web Applications, Good experience on .Net based Applications.
+-Experience on scripting.
+-Knowledge on any software programming language.
+-Knowledge on Database
+-Working knowledge of some scripting language (Shell, Perl, Python).
+-Working knowledge of SQL commands
+-Good analytical skills (root cause analysis and create solutions to resolve incidents).
+-Good verbal and written communication skills.
+-Have a strong desire to identify ways for improving processes and documentation
+
+JD 8-
+-Linux administration background.
+-Kubernetes -> 3+ years.
+-Docker -> Not IMP.
+-Support , Configuration
+-Private cloud -preferred
+-Public Cloud- Ok
+-Shell, Docker,
+-End to End cloud deployment exp required.
+
+JD 9-
+-6-8y+ years of experience in DevOps role with focus on  GCP Cloud Infrastructure operations and support.
+-Strong background of DevOps practices, Cloud Technologies in ensuring reliability and security of Cloud infrastructure
+-Strong proficiency in Infrastructure as Code (IaC) tools like Terraform and Code Configuration Management Tools like Ansible in addition to expertise in scripting languages like 
+Shell, MS Powershell, Groovy etc.
+-Experience with containerization and orchestration tools like Docker & Kubernetes.
+-Solid understanding of CI/CD pipelines and version control systems like Jenkins and GIT.
+-Experience in security scanners and vulnerability tools like AquaSec, Carbon Black, Sonar Qube, Rapid 7 scanning etc.
+-Experience in Infrastructure as code (IaC) principles and familiarity with databases (MSSQL, PostgreSQL) and networking concepts.
+-Excellent problem-solving and communication skills and ability to work collaboratively in a fast-paced and dynamic environment.
+-Good communication skills to collaborate with development teams to ensure smooth integration and deployment processes.
+
+JD 10-
+-Minimum 3 years of experiece in on any infra monitoring APM tools like centreon, nagios, zabbix, Appdynamics, Appoptics, New Relic, etc.
+-Should have keen interest in problem-solving accompanied by an understanding of Linux systems, an understanding of web servers, basic database skills, 
+and a background in either DevOps, Site Reliability Engineering or Systems Administration
+-Familiarity with one or more log and event aggregation and monitoring systems such as Splunk, Elasticsearch (ELK), Prometheus, Grafana, Graylog or similar
+-Familiarity with DevOps culture and Automations tools and technologies would be an added advantage
+-Certifications in relevant technologies like Cloud certified DevOps Engineer, Cloud 
+
+JD 11-
+-Minimum 4+ years of experience with building automations into daily operational process through one or more scripting languages(preferably python or Shell scripting)
+-Minimum 4+ years of experience as SRE on high volume and/or critical production environment along with quality control, validating services, deploying, supporting and managing applications on cloud
+-Strong experience in configuring and automating operational responsibilities for AWS managed services including EC2, S3, lambda, RDS, Elasticache, Route53 DMS, Kafka, WAF
+-Strong Experience with observability tools (New Relic, Cloudwatch, Prometheus, Graylog Grafana), container technologies and orchestration ( Kubernetes, Dockers),
+AWS networking (Route tables, R53, API-Gateway, NACL, NAT), infrastructure as code (Terraform or CloudFormation), SQL/NoSQL Databases
+-Understands key SRE concepts such as Toil, SLI, SLO, Error Budgets, MTTD, MTTR, etc.
+
+JD 12-
+-Ability to program (structured and OO) with one or more high level languages, such as Python, Java, C/C++, Ruby, and JavaScript
+-Experience with distributed storage technologies like NFS, HDFS, Ceph, S3 as well as dynamic resource management frameworks (Mesos, Kubernetes, Yarn)
+-A proactive approach to spotting problems, areas for improvement, and performance bottlenecks
+-Strong Hands on Experience on Linux or Windows Administrations
+-Coding experience beyond simple scripts
+-Strong Skills around release engineering and continuous delivery
+
+JD 13-
+-Bachelors degree in Computer Science, Engineering, or a related field.
+-Minimum of 5 years of experience in database administration, infrastructure engineering, or related roles.
+-Proven experience with engineering and operations of Microsoft SQL Server, Oracle, and other database technologies, preferably in large-scale environments.
+-Strong experience in scripting languages such as PowerShell, Python, or Shell scripting.
+-Proficiency in automation tools such as VRO, Ansible, Puppet, or Terraform.
+-Solid understanding of cloud infrastructure, preferably on AWS or VMC.
+-Excellent knowledge of networking, storage, and virtualization technologies.
+-Strong problem-solving skills and ability to troubleshoot complex issues in a production environment.
+-Proven ability to drive automation initiatives and implement best practices.
+-Strong communication and collaboration skills to work effectively with cross-functional teams.
+-Ability to work in a fast-paced environment and handle multiple priorities simultaneously.
+-Relevant certifications such as AWS Certified SysOps Administrator, Microsoft Certified: Azure Administrator Associate, or Oracle Certified Professional (OCP) would be a plus.
+-Experience in adopting SRE practices and implementing DevOps methodologies is highly desirable.
+
+JD 14-
+-Experience in container platforms, infrastructures on AWS terraform
+-Good programming skills in one of Java or Python or Go.
+
+JD 15-
+-Bachelor's degree in Computer Science, Engineering, or a related technical field. Master's degree is a plus.
+-Proven experience (5+ years) working as an SRE with a specific focus on Microsoft Azure Cloud services.
+-Deep understanding of Azure services, including Azure Kubernetes Service (AKS), Azure App Service, Azure Functions, Azure Monitor, and Azure Resource Manager.
+-Proficiency in scripting and programming languages (e.g., PowerShell, Python) for automation, infrastructure management, and tool development.
+-Hands-on experience with containerization and orchestration technologies, such as Docker and Kubernetes, in an Azure context.
+-Strong incident management skills, with a data-driven and analytical approach to diagnosing complex issues.
+-Familiarity with Infrastructure as Code (IaC) tools (e.g., Terraform, ARM templates) and configuration management tools (e.g., Ansible, Chef, Puppet).
+-Excellent problem-solving skills, attention to detail, and a proactive attitude towards addressing operational challenges.
+-Effective communication and collaboration skills, with the ability to work across teams and influence technical decisions.
+-Experience with CI/CD pipelines and version control systems (e.g., Git).
+-Relevant Azure certifications (e.g., Microsoft Certified: Azure Solutions Architect Expert, Microsoft Certified: Azure DevOps Engineer Expert) are highly advantageous.
+-In-depth knowledge of monitoring and alerting tools like Grafana, Prometheus, Loki, and Tempo.
+-Analyze monitoring data to identify trends and root causes of incidents, leading to continuous improvement of system health.
+-A strong understanding of DevOps principles and automation practices.
+
+JD 16-
+-2 years of SRE-focused projects involving process automation, systems administration, and/or general SRE activities
+-2 years of experience working with Terraform
+-2 years of experience architecting infrastructure in Amazon Web Services including automating the provisioning, deployment, and scaling of AWS resources using tools such as Terraform.
+-Excellent IP networking fundamentals
+-Experience defining and implementing best practices for AWS architecture, including security, performance, and cost optimization.
+-Programming expertise with a high-level language such as Python
+-Experience with production Docker-based software deployments
+-Ability to collaborate and problem solve across teams
+-Work on projects and respond to escalations simultaneously
+-Excellent communication skills, both written and verbal
+
+JD 17-
+-AWS, Terraform (IaC)
+-MySQL, DynamoDB, Redis
+-GitHub Actions for CI pipelines
+-Kubernetes (specifically EKS)
+-Ambassador, Helm, Argo CD, LinkerD
+-REST, gRPC, graphQL
+-React, Redux, Swift, Node.js, Kotlin, Java, Go, Python
+-Datadog, Prometheus
+
+JD 18-
+-A minimum of 3 years of experience working with SRE teams.
+-Experience in Splunk, Dynatrace, Python, and Unix Shell Scripting.
+-Good understanding of the SQL queries.
+-Strong problem-solving and troubleshooting skills.
+-Good understanding of networking, security, and cloud infrastructure.
+-Ability to work in shifts and over weekends as part of an on-call rotation.
+-Good verbal and written communication skills.
+-Experience working with Bigdata, Java, Salesforce/CRM.
+-Experience working for financial clients such as AMEX will be a plus.
+
+JD 19-
+-Hands-on experience in monitoring applications
+-Proficient in incident management flow
+-Solid knowledge of Java (Angular skills are an added advantage)
+-Experience in Shell and Python scripting
+-Exposure to Microservices, Docker, and Jenkins
+-Strong familiarity with New Relic, Dynatrace, Grafana, or Site 24x7 tools (advantageous)
+-BFSI experience is required
+
+JD 20 -
+-6-8y+ years of experience in DevOps role with focus on GCP Cloud Infrastructure operations and support.
+-Strong background of DevOps practices, Cloud Technologies in ensuring reliability and security of Cloud infrastructure
+-Strong proficiency in Infrastructure as Code (IaC) tools like Terraform and Code Configuration Management Tools like Ansible in addition to expertise in scripting languages like Shell, MS Powershell, Groovy etc.
+-Experience with containerization and orchestration tools like Docker & Kubernetes.
+-Solid understanding of CI/CD pipelines and version control systems like Jenkins and GIT.
+-Experience in security scanners and vulnerability tools like AquaSec, Carbon Black, Sonar Qube, Rapid 7 scanning etc.
+-Experience in Infrastructure as code (IaC) principles and familiarity with databases (MSSQL, PostgreSQL) and networking concepts.
+-Excellent problem-solving and communication skills and ability to work collaboratively in a fast-paced and dynamic environment.
+-Good communication skills to collaborate with development teams to ensure smooth integration and deployment processes.
+-Certifications in relevant technologies like Cloud certified DevOps Engineer
+
+JD 21-
+-Cloud Engineer with excellent hands-on experience in developing Cloud solutions using Terraform or Cloud Formation in AWS Cloud
+-Should be able to automate application deployment on AWS Cloud & got exposure to different AWS services
+-Should have got very good working experience in LINUX
+-Has experience in using of source code version control systems like GIT, SVN
+-Should have got very good Communication Skills
+-Having working experience Ansible, Jenkins is PLUS -Working experience on Datadog and Dynatrace monitoring tools 
+-Experience in handling production issues and taking part of on-call rota -Working experience in Github, GIT, SVN
+
+JD 22-
+-Bachelor's degree in computer science or related field
+-3-5 years of experience in SRE roles or related field
+-Strong understanding of networking concepts, including TCP/IP, DNS, and load balancing
+-Experience with Azure cloud platform
+-Ability to program using Python
+-Ability to work independently and collaboratively as part of a team.
+-Strong written and verbal communication skill
+
+JD 23-
+-Linux administration skills and a deep understanding of networking and TCP/IP.
+-Experience with the major cloud providers and Terraform.
+-Knowledge of technical architecture and modern-day design patterns, including micro-services, serverless functions, NoSQL, RESTful APIs, etc.
+-Demonstrable skills in a Configuration Management tool like Ansible.
+-Experience in setting up and supporting CI/CD pipelines and tooling such as GitHub or Gitlab CI
+-Proficiency in a high-level programming language such as Python or Go.
+-Experience with monitoring, log aggregation, and alerting tooling (ELK, Prometheus, Grafana etc).
+-Experience with Docker and Kubernetes
+-Experience with secret management tools like Hashicorp Vault is deemed a plus
+-Proficient in applying SRE core tenets, including SLI/SLO/SLA measurement, toil elimination, and reliability modeling for optimizing system performance and resilience.
+-Experience with cloud-native tools like Cluster API, service mesh, KEDA, OPA, Kubernetes Operators
+-Experience with big data technologies such as NoSQL/RDBMS(PostgreSQL, Oracle, MongoDB), Redis, Spark, Rabbit, Kafka etc.
+-Experience in troubleshooting and monitoring large-scale distributed systems
+
+JD 24-
+- Any Cloud experience (must)
+- Terraform or Jenkins + Docker or Kubernetes
+- Any scripting (Shell or Python or Bash or Perl)
+
+JD 25-
+-Ensure reliability response(SLAs/ SLOs) to product teams.
+-Produce detailed and timely incident reports and root cause analys is documents
+-Strong knowledge of working on Azure Applications, and Azure Kubernetes Service.
+-Experience with Microsoft Azure DevOps, Azure DevOps Boards, Ansible, MSBuild, MS Azure DevOps pipeline,Azure Artifacts, CI/ CD pipeline implementation.
+-Knowledge of Azure Logic Apps, Azure Service Bus, and Azure Web / API Apps.
+-Basic Application development knowledge(dot net, Angular, NodeJS, Python) Database(SQL, MySQL, Cosmos DB)
+-Extensive knowledge of the Azure platform, particularly App Services, AzureSQL, Virtual Machines,networking, firewalls, Key Vault, App Insights, VNet, Subnet, Network Peering, Gateways, etc
+-Strong experience / exposure to one or more of Microsoft, Amazon, andGoogle, data management tools
+-Establish a vision for implementing an end - to - end agile Data Ops - based software development life cycle with end - to - end automation in mind(Tools & Processes)
+-Strong ability to engage with the platform / product teams through discovery, analysis, and planning activities
+-Exposure to Continuous Development Tools such as Azure DevOps and Kubernetes.
+-Knowledge of Docker and Docker orchestration tools
+-Design and Build environments in the Cloud(primarily Azure)
+-Leverage Azure technical knowledge to ensure the environments are built right using best practices such as Infrastructure as Code, Security, Tagging, and a high level of automation.
+-Design & Develop an Azure DevOps pipeline to support a true CI / CD pipeline to enhance the value deliveredto Engineering and Business.
+-Ensure critical product issues, alerts, security events, and defects are being addressed in a compliant manner, and coordinate incidents and defects with the product.
+-Work with product and infra teams to optimize the resources by conducting assessments of application usage, and performance, and plan the capacity.
+-Perform analysis on alerts, incidents, and problems to better predict issues and take proactive actions tomaintain application reliability.
+-Work with development teams to drive automation, establish software standards, service modularity, code reuse, testing, and deployment / management of all code components.
+
+JD 26-
+-Comfortable with scripting and debugging.
+-Must have experience with monitoring tools (Dynatrace/ELK)
+-Must have experience of infrastructure support (Windows/Linux/SQL)
+-Must have experience with Azure and/or GCP public clouds and their cloud native products.
+-Must have experience of CI/CD pipelines Jenkins/CHEF/Ansible/Github Actions
+-Must have experience of container based technology including orchestration such as Kubernetes.
+-Understanding of enterprise networking, including zero trust principles.
+
+JD 27-
+-Linux administration skills and a deep understanding of networking and TCP/IP.
+-Experience with the major cloud providers and Terraform.
+-Knowledge of technical architecture and modern-day design patterns, including micro-services, serverless functions, NoSQL, RESTful APIs, etc.
+-Demonstrable skills in a Configuration Management tool like Ansible.
+-Experience in setting up and supporting CI/CD pipelines and tooling such as GitHub or Gitlab CI
+-Proficiency in a high-level programming language such as Python or Go.
+-Experience with monitoring, log aggregation, and alerting tooling (ELK, Prometheus, Grafana etc).
+-Experience with Docker and Kubernetes
+-Experience with secret management tools like Hashicorp Vault is deemed a plus
+-Proficient in applying SRE core tenets, including SLI/SLO/SLA measurement, toil elimination, and reliability modeling for optimizing system performance and resilience.
+-Experience with cloud-native tools like Cluster API, service mesh, KEDA, OPA, Kubernetes Operators
+-Experience with big data technologies such as NoSQL/RDBMS(PostgreSQL, Oracle, MongoDB), Redis, Spark, Rabbit, Kafka etc.
+-Experience in troubleshooting and monitoring large-scale distributed system-s
+
+JD 28-
+-Strong Linux knowledge and admin skills.
+-Deep experience in using Python scripting language; Powershell experience preferred but not mandatory.
+-Understand and effectively communicate Java features and limitations in the context of design and development decisions
+-6+ years of experience with Java
+-4+ years of experience with Spring frameworks
+-Ability to multitask, prioritize, and manage time efficiently.
+-Strong problem-solving skills and the ability to work under pressure.
+-Excellent communication and teamwork skills
+
+JD 29-
+-Kubernetes, Docker AWS Python, Shell scripting or any programming skill CI/CD, 
+-Jenkins Terraform Monitoring Tools like Datadog, Splunk, Prometheus, Grafana, Thanos, Tempo. 
+-Some level of Production System operations Troubleshooting skill Linux Oops Bazel Ansible GitHub Actions for CI pipelines ArgoCD
+
+JD 30-
+-About 6 to 10yrs of experience in the Infrastructure and DevSecOps field having exposure to Agile, CI, CD, CT and operations support
+-Extensive hands-on experience of architecting DevSecOps frameworks across Dev, test automation, build, release, config, environment management
+-Good understanding and hands-on experience of Application monitoring tools such as AppDynamics, NR, DynaTrace, Nagios, ELK
+-Hands-on Cloud experience (AWS/GCP/Azure) in relation to DevSecOps
+-Expsoure to hands-on exp on various DevOps tools such as Jenkins, Puppet /Chef /Ansible / PowerShell, Octopus, Terraform, ADO, AWS DevOps related tools, Git, ELK ..etc
+-Exposure to application Development - preferably Open Source (Java/Python) stack - as well as MicroServices
+-Hands-on Containerization experience is a must - either on K8S or OpenShift
+-Hands-on exposure to Site Reliability Engineering (SRE), Chaos Engineering, AI-Ops
+-Must have Application Security exposure including SAST, DAST, IAST
+-Any exposure to practice level activities like delivery enablement, contributing to white papers, blogs and internal presales activities like proposal writing would be a big plus
+-Any DevOps relevant certifications are plus
+-Agile awareness and certifications are plus
